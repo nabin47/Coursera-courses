@@ -1,0 +1,28 @@
+header{
+    background-color: #e6573e;
+    text-transform: uppercase;
+  }
+  
+  h1{
+    color: #fef09f;
+    text-align: center;
+  }
+  
+  h2{
+    color: #e80e0e;
+    text-transform: uppercase;
+  }
+  
+  section{
+    background-color: #00ff23;
+  }
+  
+  a{
+      text-transform: none;
+      color: #000000;
+      background-color: #ffff7f;
+    }
+  
+  img{
+    display: none;
+  }
