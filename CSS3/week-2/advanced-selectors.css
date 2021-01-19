@@ -1,0 +1,52 @@
+body{
+    background-color: #999999;
+    font-size: 150%;
+    margin: 2%;
+  }
+  
+  header{
+    text-align: center;
+    background-color: #00b7ea;
+    padding-bottom: 10px;
+  }
+  
+  nav{
+    font-variant: small-caps;
+    font-family: arial, "times new roman", serif;
+    font-size: 150%;
+  }
+  
+  h1{
+    color: #ffffff;
+  }
+  
+  h2{
+    background-color: #00b7ea;
+    color: #0f03d1;
+  }
+  
+  section{
+    display: inline-block; /* display is ignored here as the value of float is not "none".
+                              here display is treated as block. */
+    width: 30%;
+    margin-right: 2%;
+    float: left;
+  }
+  
+  details{
+    font-style: italic;
+  }
+  
+  summary{
+    font-style: normal;
+  }
+  
+  footer{
+    clear: both;
+    background-color: #00b7ea;
+    height: 100px
+  }
+  
+  img{
+    width: 7.5%
+  }
