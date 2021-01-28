@@ -96,7 +96,7 @@ th:first-child{
 tr{
     color: rgba(0, 0, 0, 0.2);
     text-align: center;
-    opacity: 0.8; /* Changes the opacity of any element. */
+    opacity: 0.8; /* Changes the opacity of any element.  */
 }
 
 td{
